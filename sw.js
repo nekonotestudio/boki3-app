@@ -1,9 +1,10 @@
-const CACHE = 'boki3-v1';
+const CACHE = 'boki3-v2';
 const ASSETS = [
   '/boki3-app/',
   '/boki3-app/index.html',
   '/boki3-app/questions.js',
   '/boki3-app/questions2.js',
+  '/boki3-app/questions3.js',
   '/boki3-app/manifest.json',
   '/boki3-app/icon-192.png',
   '/boki3-app/icon-512.png'
